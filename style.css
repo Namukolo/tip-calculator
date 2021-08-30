@@ -154,7 +154,6 @@ button:hover{
 .total-amount, .tip-amount{
     font-size: 5rem;
     /* color: hsl(186, 14%, 43%); */
-    color: red;
 }
 
 button#reset{
@@ -187,6 +186,7 @@ background-color: hsl(185, 41%, 84%);
     }
     .container{
         width: 100%;
+        height: auto;
     }
     .app-body{
         flex-direction: column;
